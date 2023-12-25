@@ -1,0 +1,21 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"); 
+
+
+.timer{
+    display: flex;
+    flex-direction: column;
+    padding: 50px 8px;
+    align-items: center;
+}
+.time-input{
+    margin: 20px;
+}
+.buttons{
+    display: flex; 
+}
+input{
+    width: 60px;
+}
+.btn{
+    margin: 0px 10px
+}
